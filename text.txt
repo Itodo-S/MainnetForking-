@@ -1,0 +1,19 @@
+[3:00 PM, 9/12/2024] Dev Shegz: Check am
+[3:00 PM, 9/12/2024] Dev Shegz: But delete the interaction images cos e dey show guzbyte for terminal
+[3:00 PM, 9/12/2024] Dev Shegz: So you go just run 
+
+npx hardhat node 
+
+first to run node on your computer
+[3:00 PM, 9/12/2024] Dev Shegz: run 
+npx hardhat ignition deploy ignition/modules/GTK.ts --network localhost
+
+To run my erc-20 token first
+[3:00 PM, 9/12/2024] Dev Shegz: Then run 
+
+npx hardhat ignition deploy ignition/modules/MultiSignatureFactory.ts --network localhost
+
+To deploy factory contract
+[3:00 PM, 9/12/2024] Dev Shegz: npx hardhat run scripts/deployFactory.ts --network localhost
+
+This code will run the interaction
